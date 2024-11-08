@@ -1,0 +1,287 @@
+[
+    {
+        "id": 404708927,
+        "name": "ALGS",
+        "description": null,
+        "url": "https://github.com/TiannaLopes/ALGS",
+        "skills": []
+    },
+    {
+        "id": 438705541,
+        "name": "Arduino",
+        "description": null,
+        "url": "https://github.com/TiannaLopes/Arduino",
+        "skills": []
+    },
+    {
+        "id": 752047073,
+        "name": "backyard-chickens",
+        "description": null,
+        "url": "https://github.com/TiannaLopes/backyard-chickens",
+        "skills": []
+    },
+    {
+        "id": 741001270,
+        "name": "bookclub",
+        "description": "bookclub ui",
+        "url": "https://github.com/TiannaLopes/bookclub",
+        "skills": [
+            "authentication",
+            "firebase",
+            "swift",
+            "swiftui"
+        ]
+    },
+    {
+        "id": 743250439,
+        "name": "bookclub-chat-room",
+        "description": null,
+        "url": "https://github.com/TiannaLopes/bookclub-chat-room",
+        "skills": [
+            "firestore",
+            "swiftui"
+        ]
+    },
+    {
+        "id": 750023184,
+        "name": "bookclub-web",
+        "description": null,
+        "url": "https://github.com/TiannaLopes/bookclub-web",
+        "skills": [
+            "vuejs"
+        ]
+    },
+    {
+        "id": 874205683,
+        "name": "bycatch-watch",
+        "description": "Real-time monitoring and alert system to minimize bycatch and protect marine ecosystems.",
+        "url": "https://github.com/TiannaLopes/bycatch-watch",
+        "skills": [
+            "bootstrap",
+            "bootswatch",
+            "environment",
+            "fishing",
+            "reactjs"
+        ]
+    },
+    {
+        "id": 829103052,
+        "name": "comp-scripts",
+        "description": null,
+        "url": "https://github.com/TiannaLopes/comp-scripts",
+        "skills": []
+    },
+    {
+        "id": 873145746,
+        "name": "contextualize-js",
+        "description": "Context-aware feature flag system for JavaScript",
+        "url": "https://github.com/TiannaLopes/contextualize-js",
+        "skills": [
+            "javascript",
+            "npm",
+            "npm-package"
+        ]
+    },
+    {
+        "id": 725379286,
+        "name": "curl",
+        "description": null,
+        "url": "https://github.com/TiannaLopes/curl",
+        "skills": [
+            "bootstrap",
+            "vue"
+        ]
+    },
+    {
+        "id": 725380278,
+        "name": "curl-be",
+        "description": null,
+        "url": "https://github.com/TiannaLopes/curl-be",
+        "skills": [
+            "nodejs"
+        ]
+    },
+    {
+        "id": 853108890,
+        "name": "dsa-guide",
+        "description": null,
+        "url": "https://github.com/TiannaLopes/dsa-guide",
+        "skills": [
+            "nextjs",
+            "typescript",
+            "github-actions",
+            "githubpages",
+            "google-analytics",
+            "jest"
+        ]
+    },
+    {
+        "id": 874288898,
+        "name": "edu-code-game",
+        "description": "Game that teaches coding concepts through puzzles and challenges. Players learn how to solve problems by writing code or dragging and dropping blocks..",
+        "url": "https://github.com/TiannaLopes/edu-code-game",
+        "skills": [
+            "good-first-issue",
+            "javascript",
+            "opensource",
+            "phaser"
+        ]
+    },
+    {
+        "id": 744282577,
+        "name": "first-contributions",
+        "description": "\ud83d\ude80\u2728 Help beginners to contribute to open source projects",
+        "url": "https://github.com/TiannaLopes/first-contributions",
+        "skills": []
+    },
+    {
+        "id": 393105691,
+        "name": "graphQL-practice",
+        "description": null,
+        "url": "https://github.com/TiannaLopes/graphQL-practice",
+        "skills": []
+    },
+    {
+        "id": 261530981,
+        "name": "HockeyScore",
+        "description": "Machine Learning with Sports",
+        "url": "https://github.com/TiannaLopes/HockeyScore",
+        "skills": [
+            "kmeans-algorithm",
+            "knearest-neighbor-algorithm",
+            "machine",
+            "python"
+        ]
+    },
+    {
+        "id": 873626756,
+        "name": "homebrew-zhoosh",
+        "description": "homebrew tap for zhoosh",
+        "url": "https://github.com/TiannaLopes/homebrew-zhoosh",
+        "skills": []
+    },
+    {
+        "id": 377269600,
+        "name": "hooksQuiz",
+        "description": "working with hooks to create a quiz",
+        "url": "https://github.com/TiannaLopes/hooksQuiz",
+        "skills": []
+    },
+    {
+        "id": 266220360,
+        "name": "House-Sales-in-King-County-USA",
+        "description": "House-Sales-in-King-County-USA : Data Analysis with Python",
+        "url": "https://github.com/TiannaLopes/House-Sales-in-King-County-USA",
+        "skills": []
+    },
+    {
+        "id": 770515381,
+        "name": "ios-stickers",
+        "description": null,
+        "url": "https://github.com/TiannaLopes/ios-stickers",
+        "skills": []
+    },
+    {
+        "id": 823330454,
+        "name": "iris-classification",
+        "description": "Testing out the basics of loading data, preprocessing, training a model, making predictions, and evaluating a model in a simple and concise manner.",
+        "url": "https://github.com/TiannaLopes/iris-classification",
+        "skills": [
+            "docsify",
+            "machine-learning",
+            "python"
+        ]
+    },
+    {
+        "id": 798939774,
+        "name": "javascript-mini-projects",
+        "description": "Awesome Collection of amazing javascript mini-projects.",
+        "url": "https://github.com/TiannaLopes/javascript-mini-projects",
+        "skills": []
+    },
+    {
+        "id": 822991653,
+        "name": "lusgo-lingo-web",
+        "description": null,
+        "url": "https://github.com/TiannaLopes/lusgo-lingo-web",
+        "skills": []
+    },
+    {
+        "id": 750994152,
+        "name": "LusoLingo",
+        "description": null,
+        "url": "https://github.com/TiannaLopes/LusoLingo",
+        "skills": [
+            "ai",
+            "appstore",
+            "firebase",
+            "game",
+            "language",
+            "portugese",
+            "swiftui"
+        ]
+    },
+    {
+        "id": 743240683,
+        "name": "meet-location-recommender",
+        "description": null,
+        "url": "https://github.com/TiannaLopes/meet-location-recommender",
+        "skills": [
+            "machine-learning",
+            "python"
+        ]
+    },
+    {
+        "id": 825913177,
+        "name": "my-marathons",
+        "description": null,
+        "url": "https://github.com/TiannaLopes/my-marathons",
+        "skills": []
+    },
+    {
+        "id": 493876801,
+        "name": "nhlAPI",
+        "description": null,
+        "url": "https://github.com/TiannaLopes/nhlAPI",
+        "skills": [
+            "api",
+            "javascript",
+            "cheerio"
+        ]
+    },
+    {
+        "id": 869803784,
+        "name": "outlook-scheduler-poc",
+        "description": null,
+        "url": "https://github.com/TiannaLopes/outlook-scheduler-poc",
+        "skills": [
+            "graph-api",
+            "js-docs",
+            "microsoft",
+            "outlook-calendar",
+            "vue",
+            "vuejs"
+        ]
+    },
+    {
+        "id": 869826059,
+        "name": "outlook-scheduler-poc-be",
+        "description": null,
+        "url": "https://github.com/TiannaLopes/outlook-scheduler-poc-be",
+        "skills": [
+            "nodejs"
+        ]
+    },
+    {
+        "id": 744644764,
+        "name": "piano-lessons",
+        "description": null,
+        "url": "https://github.com/TiannaLopes/piano-lessons",
+        "skills": [
+            "react",
+            "reactjs",
+            "greensock",
+            "tonejs"
+        ]
+    }
+]
